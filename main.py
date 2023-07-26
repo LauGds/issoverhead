@@ -3,8 +3,8 @@ from datetime import datetime
 import smtplib
 import time
 
-MY_LAT = <<YOUR LATITUDE>>
-MY_LONG = <<YOUR LONGITUDE>>
+MY_LAT = "<<YOUR LATITUDE>>"
+MY_LONG = "<<YOUR LONGITUDE>>"
 MY_EMAIL = "<<EMAIL>>"
 MY_PASSWORD = "<<PASSWORD>>"
 
